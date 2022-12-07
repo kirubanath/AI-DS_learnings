@@ -11,3 +11,5 @@ File1 learnings:
 5. Logistic regression
 6. Startified sampling
 7. Crossvalidation
+8. Dealing with categorical variable - {boxplots to understand the effect, one-hot encoding}
+9. Model validation using R^2, Residual Plots
