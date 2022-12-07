@@ -2,6 +2,7 @@
 It contains all the different learnings of machine learning algorthims and models I have learnt so far.
 
 File1 learnings:
+
 0. EDA and data cleaning
 1. Linear regression
 2. Ridge regression
