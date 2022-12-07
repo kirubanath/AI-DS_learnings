@@ -1,7 +1,7 @@
 # ML_learnings
 It contains all the different learnings of machine learning algorthims and models I have learnt so far.
 
-File1 learnings:
+Basics1 learnings:
 
 0. EDA and data cleaning
 1. Linear regression
