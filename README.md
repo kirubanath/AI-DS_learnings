@@ -1,5 +1,5 @@
 # ML_learnings
-It contains all the different learnings of machine learning algorthims and models I have learnt so far.
+It contains all my learning and insights in Machine learning and Data science
 
 ## Ml_Basics1 learnings:
 
