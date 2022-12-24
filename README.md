@@ -22,3 +22,14 @@ PCA Learnings:
 SVD Learnings:
 0. Loading and modifying images in python
 1. Using SVD to compress the image
+
+ML_Basics2 Learnings:
+0. Some aspects of Feature Engineering like adding noise, normalizing and standardizing.
+1. SVM
+2. Decision Trees
+3. Random Forest
+4. Bagging
+5. Boosting
+6. Voting Classifier
+7. Pipelining
+8. Classification report(preicison/recall/f1 score) and confusion matrix
