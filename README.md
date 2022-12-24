@@ -13,3 +13,12 @@ Ml_Basics1 learnings:
 7. Crossvalidation
 8. Dealing with categorical variable - {boxplots to understand the effect, one-hot encoding}
 9. Model validation using R^2, Residual Plots
+
+
+PCA Learnings:
+0. Loading and using MNIST dataset
+1. Dimentionality reduction in PCA
+
+SVD Learnings:
+0. Loading and modifying images in python
+1. Using SVD to compress the image
