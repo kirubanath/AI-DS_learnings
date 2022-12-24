@@ -1,7 +1,7 @@
 # ML_learnings
 It contains all the different learnings of machine learning algorthims and models I have learnt so far.
 
-Ml_Basics1 learnings:
+## Ml_Basics1 learnings:
 
 0. EDA and data cleaning
 1. Linear regression
@@ -15,15 +15,18 @@ Ml_Basics1 learnings:
 9. Model validation using R^2, Residual Plots
 
 
-PCA Learnings:
+## PCA Learnings:
+
 0. Loading and using MNIST dataset
 1. Dimentionality reduction in PCA
 
-SVD Learnings:
+## SVD Learnings:
+
 0. Loading and modifying images in python
 1. Using SVD to compress the image
 
-ML_Basics2 Learnings:
+## ML_Basics2 Learnings:
+
 0. Some aspects of Feature Engineering like adding noise, normalizing and standardizing.
 1. SVM
 2. Decision Trees
