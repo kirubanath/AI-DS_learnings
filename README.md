@@ -36,3 +36,15 @@ It contains all my learning and insights in Machine learning and Data science
 6. Voting Classifier
 7. Pipelining
 8. Classification report(preicison/recall/f1 score) and confusion matrix
+
+## ML_Basics3 Learnings:
+
+1. Clustering - Kmeans
+  1. How to handle categorical data in Kmeans
+  2. How to handle time data in Kmeans - DTW/creating aggregates
+  3. Dimentionality reduction - LDA vs PCA
+  4. Elbow method
+2. Loss functions
+  1. Zero-one loss
+  2. Cross entropy loss (log loss)
+  3. Hinge loss
