@@ -1,5 +1,5 @@
 # ML_learnings
-It contains all my learning and insights in Machine learning and Data science
+It contains all my learnings and insights in Machine learning and Data science
 
 ## [Ml_Basics1 learnings](https://github.com/kirubanath/ML-DS_learnings/blob/main/Ml_Basics1.ipynb):
 
