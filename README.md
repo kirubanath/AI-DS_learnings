@@ -48,3 +48,9 @@ It contains all my learnings and insights in Machine learning and Data science
   1. Zero-one loss
   2. Cross entropy loss (log loss)
   3. Hinge loss
+
+## [Kaggle_comp1 Learnings](https://github.com/kirubanath/ML-DS_learnings/blob/main/Kaggle_comp1.ipynb):
+This was my first kaggle competetition and a very frustrating one at that since none of the theories that I had read seemed to have any major effect.
+
+1. Feature transformation
+2. Outlier detection and capping
