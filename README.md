@@ -54,3 +54,14 @@ This was my first kaggle competetition and a very frustrating one at that since 
 
 1. Feature transformation
 2. Outlier detection and capping
+
+## [ANN](https://github.com/kirubanath/ML-DS_learnings/blob/main/ANN.ipynb):
+
+0. Tensorflow, CIFAR10 dataset
+1. Basic Artificial Neural Network
+
+## [Webscraping](https://github.com/kirubanath/ML-DS_learnings/blob/main/Webscraping.ipynb)
+
+1. basic webscraping
+
+
