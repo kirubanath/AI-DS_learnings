@@ -1,5 +1,6 @@
 # AI-DS_learnings
-It contains all my learnings and insights in the field of AI and Datascience
+It contains all my learnings and insights in the field of AI and Datascience<br>
+(the subheadings have links to the corresponding files)
 
 ## [Ml_Basics1 learnings](https://github.com/kirubanath/ML-DS_learnings/blob/main/Ml_Basics1.ipynb):
 
