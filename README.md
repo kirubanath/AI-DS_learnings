@@ -82,7 +82,7 @@ This was my first kaggle competetition and a very frustrating one at that since 
 9. Loss functions : Jaccard loss, focal loass, pixelwise crossentropy loss
 10. Metrics : IOU
 
-## [NLP](https://github.com/kirubanath/AI-DS_learnings/blob/main/NLP.ipynb)
+## [Sentiment Analysis](https://github.com/kirubanath/AI-DS_learnings/blob/main/Sentiment_Analysis.ipynb)
 
 1. Data cleaning for sentimental analysis
 2. Tokenizing
