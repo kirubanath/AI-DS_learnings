@@ -65,7 +65,7 @@ This was my first kaggle competetition and a very frustrating one at that since 
 
 1. basic webscraping
 
-##[SQL](https://github.com/kirubanath/AI-DS_learnings/blob/main/SQL.ipynb):
+## [SQL](https://github.com/kirubanath/AI-DS_learnings/blob/main/SQL.ipynb):
 
 1. Basic SQL
 
