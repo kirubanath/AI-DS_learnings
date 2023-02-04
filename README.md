@@ -69,6 +69,26 @@ This was my first kaggle competetition and a very frustrating one at that since 
 
 1. Basic SQL
 
+## [Semantic Segmentation](https://github.com/kirubanath/AI-DS_learnings/blob/main/Semantic_Segmentation.ipynb):
+
+1. Dealing with a huge dataset like COCO dataset
+2. PyCOCO library
+3. Generating masks for image segmentation
+4. Creating generator function for dataset generation
+5. Dataset augmentation
+6. VGG16 
+7. Unet
+8. Skip connections
+9. Loss functions : Jaccard loss, focal loass, pixelwise crossentropy loss
+10. Metrics : IOU
+
+## [NLP](https://github.com/kirubanath/AI-DS_learnings/blob/main/NLP.ipynb)
+
+1. Data cleaning for sentimental analysis
+2. Tokenizing
+3. Embedding
+4. NLP models using LSTM, GRU
+
 
 
 
